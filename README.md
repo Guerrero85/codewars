@@ -1,6 +1,6 @@
 # ¿Que es codewars? 
 
-
+Es una plataforma donde hay una gran comunidad de desarrolladores de software, donde principalmente se colocan pruebas de programación para medir habilidades donde son llamadas Kata
 
 ### Pre-requisitos 📋
 
