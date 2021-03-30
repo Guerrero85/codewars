@@ -17,7 +17,8 @@
  _Estas son las herramientas que utilizaron para la creacion de codigo_         
                                                                             
  * [Visual Studio Code](https://code.visualstudio.com/) - IDE o Editor de Codigo.
- * [Extension Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Extension de Python para IDE.      
+ * [Extension Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Extension de Python para IDE. 
+ * [GitHub Desktop](https://desktop.github.com/) - Software de flujo de trabajo de desarrollo.     
  * [Codewars](https://www.codewars.com/) - Plataforma donde se realizan las practicas.     
  
 ## Wiki 📖                                                                
